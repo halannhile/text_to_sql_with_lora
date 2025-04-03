@@ -1,2 +1,1 @@
-# text_to_sql_with_lora
-LoRA finetuning for text-to-SQL task
+# Finetune an LLM with LoRA for text-to-SQL task
